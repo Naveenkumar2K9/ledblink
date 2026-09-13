@@ -12,15 +12,15 @@
     onValue
   } from "https://www.gstatic.com/firebasejs/9.23.0/firebase-database.js";
 
-  //  Replace With YOUR Firebase Config
+// Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  databaseURL: "https://YOUR_PROJECT_ID.firebaseio.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "SENDER_ID",
-  appId: "APP_ID"
+  apiKey: "AIzaSyD6jJqHItM6MnSr7uKiwPRwGuPpTLZC188",
+  authDomain: "ledblink-881fc.firebaseapp.com",
+  databaseURL: "https://ledblink-881fc-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "ledblink-881fc",
+  storageBucket: "ledblink-881fc.firebasestorage.app",
+  messagingSenderId: "5665168378",
+  appId: "1:5665168378:web:9eb66399e53072ecd4e243"
 };
 
   // Initialize Firebase
